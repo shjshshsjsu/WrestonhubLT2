@@ -2,17 +2,17 @@ local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/shle
 
 local Window = Rayfield:CreateWindow({
 
-	Name = "Rayfield Example Window",	LoadingTitle = "Rayfield Interface Suite",
+	Name = "Lumber Tycoon 2",	LoadingTitle = "Lumber Tycoon 2 Hub By Wreston",
 
-	LoadingSubtitle = "by Sirius",
+	LoadingSubtitle = "By Wreston",
 
 	ConfigurationSaving = {
 
 		Enabled = true,
 
-		FolderName = "Rayfield Interface Suite",
+		FolderName = "",
 
-		FileName = "Big Hub"
+		FileName = "Wreston Hub"
 
 	},
 
@@ -20,15 +20,15 @@ local Window = Rayfield:CreateWindow({
 
 	KeySettings = {
 
-		Title = "Sirius Hub",
+		Title = "Wreston Hub",
 
 		Subtitle = "Key System",
 
-		Note = "Join the discord (discord.gg/sirius)",
+		Note = "Key Polat Alemdar#7020",
 
 		SaveKey = true,
 
-		Key = "ABCDEF"
+		Key = "deneme123"
 
 	}
 
