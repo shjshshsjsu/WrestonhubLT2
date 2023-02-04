@@ -24,7 +24,7 @@ local Window = Rayfield:CreateWindow({
 
 		Subtitle = "Key System",
 
-		Note = "Key Polat Alemdar#7020",
+		Note = "Key Discord Polat Alemdar#7020",
 
 		SaveKey = true,
 
